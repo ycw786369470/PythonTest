@@ -19,6 +19,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\git_java\java_test\src\normal_test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,7 +38,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Hero_basic">
+    <configuration name="Hero_basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="normal_test.Hero_basic" />
+      <module name="9_7test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="normal_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test_1" />
       <module name="9_7test1" />
@@ -42,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hero_basic" />
         <item itemvalue="Application.test_1" />
       </list>
     </recent_temporary>
@@ -57,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567830923427</updated>
       <workItem from="1567830932471" duration="154000" />
-      <workItem from="1567831508262" duration="332000" />
+      <workItem from="1567831508262" duration="6516000" />
     </task>
     <servers />
   </component>
