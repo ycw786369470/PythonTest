@@ -21,7 +21,7 @@ public class Hero_basic {
     }
 //    回血
     void re_hp(float hp){
-        now_hp += hp
+        now_hp += hp;
     }
 
 //    主函数
