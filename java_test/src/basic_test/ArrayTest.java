@@ -1,4 +1,4 @@
-package normal_test;
+package basic_test;
 
 public class ArrayTest {
     public static void main(String[] args) {
@@ -12,5 +12,6 @@ public class ArrayTest {
                 System.out.println(j);
             }
         }
+
     }
 }

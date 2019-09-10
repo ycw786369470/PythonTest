@@ -1,4 +1,4 @@
-package normal_test;
+package basic_test;
 
 public class SourTest {
     public static void main(String[] args) {

@@ -2,9 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="889b0464-5c4f-4197-9abd-adc82bf1c3fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/normal_test/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/normal_test/CopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_test/ArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/face_to_obj_test/Armor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/face_to_obj_test/Healer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/face_to_obj_test/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/face_to_obj_test/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/face_to_obj_test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/face_to_obj_test/Weapon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/normal_test/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/normal_test/CopyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/normal_test/Hero_basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/normal_test/Item_basic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/normal_test/ListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/normal_test/Scanner_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/normal_test/SourTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/normal_test/SwitchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/normal_test/test_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_test/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_test/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_test/CopyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_test/CopyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_test/Hero_basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_test/Hero_basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_test/Item_basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_test/Item_basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_test/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_test/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_test/Scanner_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_test/Scanner_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_test/SourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_test/SourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_test/SwitchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_test/SwitchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_test/test_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_test/test_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_test/test_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_test/test_1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +74,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="normal_test.ArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="basic_test.ArrayTest" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="normal_test.*" />
+          <option name="PATTERN" value="basic_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_test.ArraysTest" />
+      <module name="9_7test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,11 +102,11 @@
       </method>
     </configuration>
     <configuration name="CopyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="normal_test.CopyTest" />
+      <option name="MAIN_CLASS_NAME" value="basic_test.CopyTest" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="normal_test.*" />
+          <option name="PATTERN" value="basic_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="normal_test.ListTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="face_to_obj_test.Main" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="normal_test.*" />
+          <option name="PATTERN" value="face_to_obj_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,25 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SourTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="normal_test.SourTest" />
+    <configuration name="Weapon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="face_to_obj_test.Weapon" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="normal_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="normal_test.SwitchTest" />
-      <module name="9_7test1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="normal_test.*" />
+          <option name="PATTERN" value="face_to_obj_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Weapon" />
+        <item itemvalue="Application.ArraysTest" />
         <item itemvalue="Application.ArrayTest" />
         <item itemvalue="Application.CopyTest" />
-        <item itemvalue="Application.SourTest" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.SwitchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +164,7 @@
       <workItem from="1567831508262" duration="6516000" />
       <workItem from="1568021211236" duration="205000" />
       <workItem from="1568025575434" duration="5862000" />
-      <workItem from="1568103375278" duration="4835000" />
+      <workItem from="1568103375278" duration="12799000" />
     </task>
     <servers />
   </component>

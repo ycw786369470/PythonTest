@@ -1,4 +1,4 @@
-package normal_test;
+package basic_test;
 
 public class Item_basic {
     // 商品名

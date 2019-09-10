@@ -1,4 +1,4 @@
-package normal_test;
+package basic_test;
 
 public class Hero_basic {
 //    英雄名字：字符串

@@ -1,4 +1,4 @@
-package normal_test;
+package basic_test;
 // 导入输入模块scanner
 import java.util.Scanner;
 

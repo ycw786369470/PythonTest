@@ -1,4 +1,4 @@
-package normal_test;
+package basic_test;
 import java.util.Scanner;
 
 public class SwitchTest {

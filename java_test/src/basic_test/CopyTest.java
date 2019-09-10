@@ -1,4 +1,4 @@
-package normal_test;
+package basic_test;
 
 // 复制数组
 public class CopyTest {
