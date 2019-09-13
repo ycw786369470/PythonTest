@@ -7,6 +7,6 @@ public class Weapon extends Item{
         sword.name = "吴京之刃";
         sword.price = 2700;
         sword.damage = 90;
-        sword.buy();
+//        sword.buy();
     }
 }
