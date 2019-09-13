@@ -30,9 +30,9 @@ public class Hero {
 //    public void use_mp(MpPotion mp){
 //        mp.effect(name);
 //    }
-
+    
     public void use_item(Item i){
-        i.effect();
+        i.effect(name);
     }
 
     public void this_test(){

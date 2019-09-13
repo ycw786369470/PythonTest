@@ -8,7 +8,7 @@ public class Item {
         System.out.println("购买");
     }
 
-    public void effect(){
-        System.out.println("使用了物品产生效果");
+    public void effect(String name){
+        System.out.println(name + "使用了物品产生效果");
     }
 }

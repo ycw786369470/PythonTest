@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="889b0464-5c4f-4197-9abd-adc82bf1c3fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inter_test/HpPotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inter_test/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inter_test/MpPotion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/face_to_obj_test/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/face_to_obj_test/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/face_to_obj_test/Weapon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/face_to_obj_test/Weapon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/inter_test/AdHero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/inter_test/AdHero.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/9_7test1/inter_test/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/inter_test/Hero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/inter_test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/inter_test/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/face_to_obj_test/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/face_to_obj_test/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/face_to_obj_test/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/face_to_obj_test/Weapon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inter_test/AdHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inter_test/AdHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/inter_test/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/inter_test/Item.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inter_test/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inter_test/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inter_test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inter_test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inter_test/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inter_test/Item.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +150,7 @@
       <workItem from="1568188893980" duration="6912000" />
       <workItem from="1568259782026" duration="594000" />
       <workItem from="1568270139819" duration="5824000" />
-      <workItem from="1568351775813" duration="8043000" />
+      <workItem from="1568351775813" duration="9424000" />
     </task>
     <servers />
   </component>
