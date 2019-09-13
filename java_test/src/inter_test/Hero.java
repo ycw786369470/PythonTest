@@ -21,16 +21,6 @@ public class Hero {
         System.out.println("一个新的英雄诞生");
     }
 
-//    // 使用生命药水
-//    public void use_hp(HpPotion hp){
-//        hp.effect(name);
-//    }
-//
-//    // 使用蓝药水
-//    public void use_mp(MpPotion mp){
-//        mp.effect(name);
-//    }
-    
     public void use_item(Item i){
         i.effect(name);
     }
