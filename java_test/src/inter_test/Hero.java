@@ -47,6 +47,28 @@ public class Hero {
         h1.now_hp = h1.now_hp - (damage - h1.armor);
         h2.now_hp = h2.now_hp - (damage - h2.armor);
     }
+
+    // 重写返回
+    public String toString(){
+        return "i am " + name;
+    }
+
+    // 回收
+
+    // 内部类,外部类存在时才生效
+    public class Battle{
+        int killed;
+        int dead;
+        int assis;
+
+        public void is_legend(){
+            if(this.killed >= 8){
+                System.out.println(name + "超神了!");
+            }else {
+                System.out.println("想屁吃");
+            }
+        }
+    }
 }
 
 
