@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="889b0464-5c4f-4197-9abd-adc82bf1c3fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbstrackTest/AD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstrackTest/AbstrackHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstrackTest/AbstrackItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstrackTest/AdHero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstrackTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorts/BublingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorts/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorts/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorts/HaflSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -158,7 +151,7 @@
       <workItem from="1568430608634" duration="1480000" />
       <workItem from="1568446027643" duration="352000" />
       <workItem from="1568531398175" duration="6462000" />
-      <workItem from="1568596422209" duration="10608000" />
+      <workItem from="1568596422209" duration="12376000" />
     </task>
     <servers />
   </component>
