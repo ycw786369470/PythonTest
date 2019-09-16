@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="889b0464-5c4f-4197-9abd-adc82bf1c3fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AbstrackTest/AD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrackTest/AbstrackHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrackTest/AbstrackItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrackTest/AdHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstrackTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorts/BublingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorts/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorts/SelectSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/inter_test/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/inter_test/Hero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/inter_test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/inter_test/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inter_test/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inter_test/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inter_test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inter_test/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +60,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="ArraysTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic_test.ArraysTest" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="BublingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorts.BublingSort" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic_test.*" />
+          <option name="PATTERN" value="Sorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="face_to_obj_test.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstrackTest.Main" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="face_to_obj_test.*" />
+          <option name="PATTERN" value="AbstrackTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeasonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="face_to_obj_test.SeasonMain" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorts.QuickSort" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="face_to_obj_test.*" />
+          <option name="PATTERN" value="Sorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Weapon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="face_to_obj_test.Weapon" />
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorts.SelectSort" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="face_to_obj_test.*" />
+          <option name="PATTERN" value="Sorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.BublingSort" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.SeasonMain" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Weapon" />
-        <item itemvalue="Application.ArraysTest" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +157,8 @@
       <workItem from="1568351775813" duration="11785000" />
       <workItem from="1568430608634" duration="1480000" />
       <workItem from="1568446027643" duration="352000" />
-      <workItem from="1568531398175" duration="909000" />
+      <workItem from="1568531398175" duration="6462000" />
+      <workItem from="1568596422209" duration="10608000" />
     </task>
     <servers />
   </component>
