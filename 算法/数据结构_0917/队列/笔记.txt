@@ -1,0 +1,3 @@
+队列是一种先进先出的数据结构FIFO（First In First Out）
+
+队列：Queue

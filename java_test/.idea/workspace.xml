@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="889b0464-5c4f-4197-9abd-adc82bf1c3fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SynthesisTest/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SynthesisTest/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SynthesisTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SynthesisTest/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SynthesisTest/Spider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorts/HaflSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorts/HaflSearch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BublingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorts.BublingSort" />
       <module name="9_7test1" />
@@ -66,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inter_test.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstrackTest.Main" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inter_test.*" />
+          <option name="PATTERN" value="AbstrackTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstrackTest.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SynthesisTest.Main" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AbstrackTest.*" />
+          <option name="PATTERN" value="SynthesisTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.SelectSort" />
         <item itemvalue="Application.BublingSort" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +158,8 @@
       <workItem from="1568531398175" duration="6462000" />
       <workItem from="1568596422209" duration="12376000" />
       <workItem from="1568682217550" duration="1239000" />
+      <workItem from="1568702596765" duration="1320000" />
+      <workItem from="1568720972475" duration="3437000" />
     </task>
     <servers />
   </component>
