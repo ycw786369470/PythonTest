@@ -10,8 +10,8 @@ public class Main {
 //        };
 //        pig.eat();
 //        pig.walk();
-        Spider s = new Spider(8);
-        s.walk();
+//        Spider s = new Spider(8);
+//        s.walk();
     }
 
 }
