@@ -4,19 +4,14 @@ class Node:
     def __init__(self, data=None, next=None):
         self.__data = data
         self.__next = next
-
     def set_data(self, data):
         self.__data = data
-
     def set_next(self, next):
         self.__next = next
-
     def get_data(self):
         return self.__data
-
     def get_next(self):
         return self.__next
-
 
 #描述一个单向链表
 class LinkList:
@@ -24,7 +19,6 @@ class LinkList:
             self.__head = head
             self.__tail = tail
             self.__length = length
-
         #头插法
         def add(self, data):
             # 创建一个节点
@@ -59,27 +53,52 @@ class LinkList:
 
         #在指定位置插入一个元素
         def insert_pos(self, pos, data):
-            pass
+            if pos == 0:
+                self.add(data)
+                return None
+
+            tmp = self.__head
+            for x in range(pos-1):
+                tmp = tmp.get_next()
+            new_node = Node(data)
+            new_node.set_next(tmp.get_next())
+            tmp.set_next(new_node)
 
         #在指定位置删除一个元素
         def remove_pos(self, pos, data):
             pass
-
         #删除指定的元素
         def remove_data(self, data):
-            pass
+            #用tmp指向链表的head
+            tmp = self.__head
+            pre = self.__head
+            while tmp != None:
+                while tmp.get_data() != data and tmp != None:
+                    pre = tmp
+                    tmp = tmp.get_next()
+                if tmp == None:
+                    break
+                #如果删除的节点是头部
+                if tmp == self.__head:
+                    self.__head = tmp.get_next()
+
+                elif tmp == self.__tail: #如果删除的节点是尾部
+                    self.__tail = pre
+                else:
+                    pre.set_next(tmp.get_next())
+                del tmp
+                self.__length -= 1
+                tmp = pre.get_next()
 
         #判断链表是否为空
         def is_empty(self):
             return self.__head == None
-
         def print_list(self):
             #用一个临时指针指向链表的头节点
             tmp = self.__head
             while tmp != None:
                 print(tmp.get_data())
                 tmp = tmp.get_next()
-
 
 if __name__ == '__main__':
     #创建一个空链表
