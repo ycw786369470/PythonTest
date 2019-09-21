@@ -12,6 +12,11 @@ public class Main {
 //        pig.walk();
 //        Spider s = new Spider(8);
 //        s.walk();
+//        System.out.println(Integer.MAX_VALUE);
+//        System.out.println(Integer.MIN_VALUE);
+        int i = 2;
+        Integer it = i;
+        System.out.println(it);
     }
 
 }

@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="889b0464-5c4f-4197-9abd-adc82bf1c3fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorts/InsertSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/SynthesisTest/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/SynthesisTest/Animal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/9_7test1/SynthesisTest/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/SynthesisTest/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/SynthesisTest/Spider.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SynthesisTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SynthesisTest/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SynthesisTest/Spider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SynthesisTest/Spider.java" afterDir="false" />
     </list>
@@ -58,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InsertSort">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BublingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorts.BublingSort" />
       <module name="9_7test1" />
@@ -126,8 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InsertSort" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InsertSort" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.SelectSort" />
         <item itemvalue="Application.BublingSort" />
@@ -160,7 +157,7 @@
       <workItem from="1568682217550" duration="1239000" />
       <workItem from="1568702596765" duration="1320000" />
       <workItem from="1568720972475" duration="3437000" />
-      <workItem from="1568790462256" duration="4029000" />
+      <workItem from="1568790462256" duration="6013000" />
     </task>
     <servers />
   </component>
