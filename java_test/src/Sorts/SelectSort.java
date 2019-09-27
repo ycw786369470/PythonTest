@@ -9,7 +9,7 @@ public class SelectSort {
             // 找出相对最大的数
             int max = ls[0];
             int index = 0;
-            for(int j=0; j<len-i; j++){
+            for(int j=1; j<len-i; j++){
                 if(ls[j]>max){
                     max = ls[j];
                     index = j;
