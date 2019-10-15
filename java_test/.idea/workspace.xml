@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="889b0464-5c4f-4197-9abd-adc82bf1c3fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorts/Sorts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorts/He.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/Sorts/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/Sorts/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/SynthesisTest/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/SynthesisTest/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorts/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/9_7test1/Sorts/Sorts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9_7test1/Sorts/Sorts.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,9 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sorts">
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorts.InsertSort" />
+  <component name="RunManager" selected="Application.He">
+    <configuration name="He" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorts.He" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
@@ -73,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SynthesisTest.Main" />
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorts.InsertSort" />
       <module name="9_7test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SynthesisTest.*" />
+          <option name="PATTERN" value="Sorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.He" />
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Sorts" />
         <item itemvalue="Application.SelectSort" />
         <item itemvalue="Application.InsertSort" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +161,10 @@
       <workItem from="1568720972475" duration="3437000" />
       <workItem from="1568790462256" duration="6013000" />
       <workItem from="1569551667720" duration="4127000" />
+      <workItem from="1571016535607" duration="109000" />
+      <workItem from="1571020852901" duration="2033000" />
+      <workItem from="1571023134848" duration="446000" />
+      <workItem from="1571025382816" duration="181000" />
     </task>
     <servers />
   </component>
